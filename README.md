@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Sabbir+Vuia....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Sabbir....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <img align="center"  alt="sabbir" src="https://i.ibb.co.com/8LtYWxM5/Black-and-Blue-Dark-Professional-Business-Services-Linked-In-Article-Cover-Image.png" />
@@ -17,13 +17,13 @@
 </div>
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabbirvuia&label=Profile+Views&color=0f172a&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/sabbirvuia?label=Followers&style=flat-square&color=0f172a)
-![GitHub User's stars](https://img.shields.io/github/stars/sabbirvuia?label=Total+Stars&style=flat-square&color=0f172a)
+![](https://komarev.com/ghpvc/?username=sabbirvuia&label=Profile+Views&color=blue&style=flat-square)
+![](https://img.shields.io/github/followers/sabbirvuia?label=Followers&style=flat-square&color=blue)
+![](https://img.shields.io/github/stars/sabbirvuia?label=Total+Stars&style=flat-square&color=blue)
 
 </div>
 
-<br>
+<hr/>
 
 <h2 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h2> 
 <picture>
@@ -112,20 +112,25 @@
 </div>
 <br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-```javascript
-const mdSabbir = {
-  pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "Redux", "Next", "Node.js", "Styled-Components", "Jest", "Dock],
-  architecture: ["js functionality", "response web", "design ui front-end page"],
-  techCommunities: {
-    coorganizer: "Stanford-University-of-Bangladesh",
-    speaker: "English",
-    Aspiring : "Web Developer"
-  },
-  challenge: "Exploring New Technologies"
+---
+
+## 👨‍💻 About Me
+
+```js
+const babul = {
+  name        : "MD SABBIR VUIA",
+  role        : "Aspiring MERN Stack Developer",
+  location    : "Bangladesh 🇧🇩",
+  codingStart : "31 December 2025 ⚡",
+  learning    : ["React.js", "Next.js", "Node.js", "MongoDB", "Express.js"],
+  current     : "Building real-world projects with React & Tailwind CSS",
+  goal        : "Become a professional Full-Stack Developer 🚀",
+  funFact     : "Switched careers → now turning ideas into code!",
+  available   : true,
+};
 ```
+
+---
 ---
 
 <div align="center">
@@ -141,12 +146,7 @@ const mdSabbir = {
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-flame.vercel.app?user=sabbirvuia&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700&card_height=200" alt="GitHub Streak" /></a>
 <!-- ================= ACTIVITY GRAPH ================= -->
 </div>
-
+<hr/>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbirvuia&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=80&section=footer"/>
 </p>
