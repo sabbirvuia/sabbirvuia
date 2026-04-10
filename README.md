@@ -20,13 +20,14 @@
 
 - ⚡ Fun fact **I love exploring new technologies and building cool stuff.**
 
+
 <h3 align="left">Connect with me:</h3
 <p align="left">
 <a href="https://github.com/sabbirvuia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sabbirvuia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdsabbirvuia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdsabbirvuia" height="30" width="40" /></a>
 <a href="https://discord.gg/sabbirvuai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sabbirvuai" height="30" width="40" /></a>
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsabbirvuia)
 <hr/>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
@@ -37,6 +38,7 @@
 
 <br/>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ```javascript
 const mdSabbir = {
   pronouns: "he/him",
@@ -49,3 +51,6 @@ const mdSabbir = {
     Aspiring : "Web Developer"
   },
   challenge: "Exploring New Technologies"
+```
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
