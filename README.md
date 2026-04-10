@@ -130,7 +130,16 @@ const babul = {
 };
 ```
 
----
+## 🚀 Streak Stats
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-flame.vercel.app?user=sabbirvuia&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700&card_height=200" alt="GitHub Streak" /></a>
+<!-- ================= ACTIVITY GRAPH ================= -->
+</div>
+<hr/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbirvuia&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 <div align="center">
@@ -142,11 +151,9 @@ const babul = {
 </div>
 
 ---
+
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-flame.vercel.app?user=sabbirvuia&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700&card_height=200" alt="GitHub Streak" /></a>
-<!-- ================= ACTIVITY GRAPH ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00f0ff,100:0D1117&height=130&section=footer&text=Let's+Build+Something+Amazing!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
 </div>
-<hr/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbirvuia&theme=tokyo-night&hide_border=true"/>
-</p>
