@@ -22,8 +22,7 @@
 ![](https://img.shields.io/github/stars/sabbirvuia?label=Total+Stars&style=flat-square&color=blue)
 
 </div>
-
-<hr/>
+<br>
 
 <h2 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h2> 
 <picture>
@@ -31,7 +30,7 @@
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<br />
+<br>
 
 - 🔭 I'm currently working on **a React project**
 
@@ -81,7 +80,7 @@
 
 </p>
 
-<hr/>
+<br>
 
 <h3 align="center">🔥Ｌａｎｇｕａｇｅｓ & Ｆｒａｍｅｗｏｒｋｓ & Ｔｏｏｌｓ 🔥⚡</h3>
 
@@ -110,7 +109,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 </div>
-<br/>
+<br>
 
 ---
 
@@ -135,12 +134,12 @@ const babul = {
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-flame.vercel.app?user=sabbirvuia&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700&card_height=200" alt="GitHub Streak" /></a>
 <!-- ================= ACTIVITY GRAPH ================= -->
 </div>
-<hr/>
+<br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbirvuia&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<br>
 
 <div align="center">
 
@@ -149,9 +148,7 @@ const babul = {
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
-
+<br>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00f0ff,100:0D1117&height=130&section=footer&text=Let's+Build+Something+Amazing!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
