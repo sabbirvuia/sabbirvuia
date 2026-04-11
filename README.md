@@ -120,8 +120,8 @@
 <br>
 
 ---
-<details><summary>
-<h2>👨‍💻 About Me</h2></summary>
+<details><summary style="font-size: 36px;">
+👨‍💻 About Me</summary>
 
 ```js
 const babul = {
@@ -138,25 +138,34 @@ const babul = {
 ```
 </details>
 
-## 🚀 Streak Stats
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-flame.vercel.app?user=sabbirvuia&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700&card_height=200" alt="GitHub Streak" /></a>
-<!-- ================= ACTIVITY GRAPH ================= -->
-</div>
-<br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbirvuia&theme=tokyo-night&hide_border=true"/>
-</p>
 
-<br>
+<h3> 🚀 Additional Stats</h3> 
 
 <div align="center">
-
-### 💬 Quote
-
+    <table style="border-collapse: collapse; width: 100%;">
+        <tr>
+            <td align="center" width="50%" >
+                 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbirvuia&theme=tokyo-night&hide_border=true"/>
+            </td>
+            <td align="center" width="50%">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabbirvuia&theme=transparent" alt="Top Languages by Commit">
+            </td>
+        </tr>
+      <tr>
+            <td align="center" width="50%">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-flame.vercel.app?user=sabbirvuia&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800&card_height=300" alt="GitHub Streak" /></a>
+            </td>
+            <td align="center" width="50%">
+                
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+            </td>
+        </tr>
+    </table>
 </div>
+
+
+
+            
 <br>
 <div align="center">
 
