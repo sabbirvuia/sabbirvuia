@@ -1,9 +1,10 @@
+
 <h1 align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Sabbir....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<img align="center"  alt="sabbir" src="https://i.ibb.co.com/8LtYWxM5/Black-and-Blue-Dark-Professional-Business-Services-Linked-In-Article-Cover-Image.png" />
+<img width="2000" height="600" alt="Black and Blue Dark ProfessionalBusiness Services LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/293d59f5-59f2-442d-9029-e7e934cdda54" />
 
 <!-- ================= HERO BANNER ================= -->
 <p align="center">
