@@ -17,14 +17,13 @@
 </div>
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=sabbirvuia&label=Profile+Views&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=sabbirvuia&label=Profile+Views&color=blue&style=for-the-badge)
 ![](https://img.shields.io/github/followers/sabbirvuia?label=Followers&style=flat-square&color=blue)
 ![](https://img.shields.io/github/stars/sabbirvuia?label=Total+Stars&style=flat-square&color=blue)
 
 </div>
-<br>
 
-<h2 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h2> 
+<h2 align="center">🔥 𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 🔥⚡</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -43,11 +42,12 @@
 </a>
 
 - ⚡ Fun fact **I love exploring new technologies and building cool stuff.**
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0EA5E9&center=true&vCenter=true&width=410&lines=Frontend+Developer;React+%7C+JavaScript+Lover;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0EA5E9&center=true&vCenter=true&width=415&lines=Frontend+Developer;React+%7C+JavaScript+Lover;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
 <!-- <p align="right">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+JavaScript+Lover;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
 </p> -->
-<h3 align="center">Connect with Me</h3>
+
+<h3><img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="35px"> Connect with Me</h3>
 
 <p align="center">
 
@@ -85,30 +85,38 @@
 <h3 align="center">🔥Ｌａｎｇｕａｇｅｓ & Ｆｒａｍｅｗｏｒｋｓ & Ｔｏｏｌｓ 🔥⚡</h3>
 
 <div align="center">
-<div align="left">
-  
-### Core
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="padding: 8px; border: none; text-align: center;">Core Language</td>
+      <td style="padding: 8px; border: none; text-align: center;">Backend & Database</td>
+      <td style="padding: 8px; border: none; text-align: center;">Frameworks</td>
+      <td style="padding: 8px; border: none; text-align: center;">Tools & Cloud DevOps</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <a href="https://github.com/Idba1">
+          <img src="https://skillicons.dev/icons?i=c,js,html,css" alt="Programming Icons">
+        </a>
+      </td> 
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <a href="https://github.com/Idba1">
+          <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" alt="Database Icons">
+        </a>
+      </td>
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <a href="https://github.com/Idba1">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Framework Icons">
+        </a>
+      </td>
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <a href="https://github.com/Idba1">
+          <img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,figma,vscode" alt="Tools & Cloud DevOps Icons">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-</div>
-<div align="right">
-  
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</div>
-</div>
 <br>
 
 ---
