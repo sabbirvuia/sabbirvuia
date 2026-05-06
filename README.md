@@ -121,8 +121,10 @@
 <br>
 
 ---
-<details><summary style="font-size: 36px;">
-👨‍💻 About Me</summary>
+<details><summary><h3>
+  👨‍💻 About Me
+</h3>
+</summary>
 
 ```js
 const Sabbir = {
@@ -139,8 +141,10 @@ const Sabbir = {
 ```
 </details>
 
+<details>
+  <summary> <h3> 🚀 Additional Stats</h3>  </summary>
+  
 
-<h3> 🚀 Additional Stats</h3> 
 
 <div align="center">
     <table style="border-collapse: collapse; width: 100%;">
@@ -164,6 +168,7 @@ const Sabbir = {
     </table>
 </div>
 
+</details>
 
 
             
